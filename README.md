@@ -1,2 +1,3 @@
 # Exploring Offensive Line Cap Spending
-![alt text](https://i.imgur.com/ARv75zb.png)
+Noticed an interesting trend in cap spending on offensive lineman as a % of their total cap....
+![alt text](https://github.com/jtchernak/Exploring-Offensive-Line-Cap-Spending/blob/master/AllGGPlots/Box%20Plot.png)
