@@ -6,7 +6,7 @@ Significantly higher % this year relative to the past 4 years of cap allocation.
 
 ![alt text](https://github.com/jtchernak/Exploring-Offensive-Line-Cap-Spending/blob/master/AllGGPlots/AFC%20East.png)
 
-Every team outside NYJ prefers to hover around the 10%-15% range, New York has had significant investment in their offensive line every year outside of 2016. Interesting that MIA has notable jump into the 15%-20% range.
+Every team outside NYJ prefers to hover around the 10%-15% range, New York has had significant investment in their offensive line every year outside of 2016. Interesting that MIA has such a pronounced jump into the 15%-20% range. New England appears to be following a guideline of 10%-15% along with Buffalo.
 
 ![alt text](https://github.com/jtchernak/Exploring-Offensive-Line-Cap-Spending/blob/master/AllGGPlots/AFC%20North.png)
 
@@ -22,7 +22,7 @@ The AFC West likely accounts for a signficant portion of this jump, every team j
 
 ![alt text](https://github.com/jtchernak/Exploring-Offensive-Line-Cap-Spending/blob/master/AllGGPlots/NFC%20North.png)
 
-This is a division of change it seems, Chicago has hovered slightly below the 10%-15% range and into the middle of this area but it looks like they changed course and are investing much more into this position grouping. Detroit has consistently been at the low end of 10%-15%, even below it, but show a significant jump to nearly 18% of their cap. Green Bay is a perfect example of 10%-15% range, staying at the high end of the range but this year they moved into the 20% range like other teams. Minnessota is similar except they have not taken the jump out of this range and instead continue to operate between 10%-15%. 
+This is a division of change it seems, Chicago has hovered slightly below the 10%-15% range and into the middle of this area but it looks like they changed course and are investing much more into this position grouping. Detroit has consistently been at the low end of 10%-15%, even below it, but show a significant jump to nearly 18% of their cap. Green Bay is a perfect example of 10%-15% range, staying at the high end of the range but this year they moved into the 20% range like other teams. Minnesota is similar except they have not taken the jump out of this range and instead continue to operate between 10%-15%. 
 
 ![alt text](https://github.com/jtchernak/Exploring-Offensive-Line-Cap-Spending/blob/master/AllGGPlots/NFC%20South.png)
 
@@ -30,7 +30,7 @@ This division provides some interesting insight into the recent jump in cap allo
 
 ![alt text](https://github.com/jtchernak/Exploring-Offensive-Line-Cap-Spending/blob/master/AllGGPlots/NFC%20West.png)
 
-No real discernible trend among these teams outside of SF being the 10%-15% range but moving beyond that a slight amount, though not to the degree some teams are. We can notice though that after spending below 5% for Seattle and Arizona, they both upped their investment. Possibly they realized that they were spending well below average on the offensive line and receiving below average results. 
+No real discernible trend among these teams outside of SF being in the 10%-15% range but moving beyond that a slight amount, though not to the degree some teams are. We can notice though that after spending below 5% for Seattle and Arizona, they both upped their investment. Possibly they realized that they were spending well below average on the offensive line and receiving below average results. 
 
 ![alt text](https://github.com/jtchernak/Exploring-Offensive-Line-Cap-Spending/blob/master/AllGGPlots/NFC%20East.png)
 
