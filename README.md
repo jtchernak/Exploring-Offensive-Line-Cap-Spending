@@ -10,7 +10,7 @@ Every team outside NYJ prefers to hover around the 10%-15% range, New York has h
 
 ![alt text](https://github.com/jtchernak/Exploring-Offensive-Line-Cap-Spending/blob/master/AllGGPlots/AFC%20North.png)
 
-Baltimore is a team that consistently places in the 10%-15% range with consistency. The Bengals look like they are a team that invests more than average into their offensive line, 5 of the 6 years in this data they are on the high end of 10%-15% or beyond this area. Cleveland is a heavy investor, they do not follow the conventional range and instead have opted to invest in the high end of the teens and well into the twenties, reaching quarter of cap range almost. Pittsburgh has almost followed a linear trend of continued spending on their offensive line as they are spending slightly above a fifth of their cap on their offensive line. 
+Baltimore is a team that consistently places in the 10%-15% range every year. The Bengals look like they are a team that invests more than average into their offensive line, 5 of the 6 years in this data they are on the high end of 10%-15% or beyond this area. Cleveland is a heavy investor, they do not follow the conventional range and instead have opted to invest in the high end of the teens and well into the twenties, reaching quarter of cap range almost. Pittsburgh has almost followed a linear trend of continued spending on their offensive line as they are spending slightly above a fifth of their cap on their offensive line. 
 
 ![alt text](https://github.com/jtchernak/Exploring-Offensive-Line-Cap-Spending/blob/master/AllGGPlots/AFC%20South.png)
 
