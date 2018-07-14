@@ -45,7 +45,7 @@ No real discernible trend among these teams outside of SF being in the 10%-15% r
 
 What stands out here is Dallas, they were due to pay their offensive linemen this year and combined with contracts from last year they are spending above 25% of their cap on offenive linemen. Interesting though that they were in 10%-15% range but had no problem investing in their own players to a high level. NYG is one of the lowest investors in offensive lines over the past few years and what we can see is that after spending below 5% they too upped investment considerably. PHI is a heavy investor in their offensive line every year and that only continues into this year. Perhaps teams noticed the Eagles investing in their offensive line in the 15% to 20% rough range and how it benefited them this past year. Washington has also been a large investor in their offensive line and after a year of low spending they went back to a high level again.
 
-##
+Nothing too complicated or complex in here.... just an exploratory analysis to build off. Will keep an eye on this as the year progresses and look at the relationship between pressure stats and cap.
 
 
 
